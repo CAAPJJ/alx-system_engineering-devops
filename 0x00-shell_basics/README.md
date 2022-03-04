@@ -1,1 +1,2 @@
-it is not empty
+#!/bin/bash
+pwd
