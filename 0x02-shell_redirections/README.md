@@ -1,2 +1,2 @@
-sakita
-
+#!/bin/bash
+fetagn
